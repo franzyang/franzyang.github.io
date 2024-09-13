@@ -1,7 +1,7 @@
 +++
 title = 'My First Post'
 date = 2024-09-13T11:16:02+08:00
-draft = true
+draft = false
 +++
 
 This is **bold** text, and this is *emphasized* text.
