@@ -127,7 +127,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [firebase]
   apiKey = "AIzaSyDsiQaX3Gv1fdT6P9n4aa91dE4UwOfu0vk"
-  authDomain = "thunder-408514.firebaseapp.com
+  authDomain = "thunder-408514.firebaseapp.com"
   projectId = "thunder-408514"
   storageBucket = "thunder-408514.appspot.com"
   messagingSenderId = "663590705575"
